@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wietse M. Boon
+title: Personal homepage
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Wietse M. Boon's personal homepage
-# twitter_username: username
+twitter_username: username
 github_username: wmboon
 minimal_mistakes_skin: contrast
 search: true
@@ -100,6 +100,7 @@ defaults:
       comments: false
       share: false
       related: false
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
