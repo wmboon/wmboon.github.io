@@ -61,7 +61,7 @@ classes: wide
     Springer, Cham, 155-164 (2021).
 
 **2020**
-- A. Budi\v{s}a, W.M. Boon, X. Hu. \
+- A. Budiša, W.M. Boon, X. Hu. \
     [Mixed-Dimensional Auxiliary Space Preconditioners.](https://doi.org/10.1137/19M1292618)\
 	*SIAM Journal on Scientific Computing*, 
     42(5), A3367-A3396 (2020).
