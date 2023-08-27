@@ -5,7 +5,7 @@ main:
     url: /posts/
   - title: "MiDiROM"
     url: /MiDiROM/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   # - title: "Tags"
   #   url: /tags/
