@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Wietse M. Boon's personal homepage
 twitter_username: username
 github_username: wmboon
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: air
 search: true
 masthead_title: "Personal homepage"
 
