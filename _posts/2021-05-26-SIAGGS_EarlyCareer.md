@@ -8,4 +8,4 @@ tag: news
 This prize is awarded every two years to one individual in their early career in the field of geosciences for distinguished contributions to the field in the three calendar years prior to the award year. My award reads as follows:
 > For novel and significant contributions to the challenging problem of mathematical and computational modeling of mixed-dimensional systems, such as fractured porous media.
 
-More information about the prize can be found at [SIAM.org](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/full-prize-specifications/siag-gs-early-career-prize).
+More information about the prize can be found at [SIAM.org](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/full-prize-specifications/siag-gs-early-career-prize). The Porous Media Group of the university of Bergen also published a [news feature](https://www.uib.no/en/rg/pmg/148345/siam-gsprize-spotlight-wietse-boon). 
