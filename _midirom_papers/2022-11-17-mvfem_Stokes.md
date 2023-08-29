@@ -9,4 +9,4 @@ A multipoint vorticity mixed finite element method for incompressible Stokes flo
 
 {% include figure image_path="/assets/images/midirom_papers/Picture3.png" caption="Flow field calculated using our method with a rotational forcing term." %}
 
-[Published version](https://doi.org/10.1016/j.aml.2022.108498)
+[Published version (open access)](https://doi.org/10.1016/j.aml.2022.108498)
