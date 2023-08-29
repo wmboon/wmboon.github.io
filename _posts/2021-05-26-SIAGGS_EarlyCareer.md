@@ -1,5 +1,6 @@
 ---
 title: "SIAM Activity Group on GeoSciences Early Career Prize 2021"
+tag: news
 ---
 
 [SIAM News](https://sinews.siam.org/Details-Page/june-2021-prize-spotlight#wb) interviewed me as the awardee of the 2021 Early Career prize of SIAG/GS.
