@@ -78,7 +78,7 @@ classes: wide
 - M. Schneider, K. Weishaupt, D. Gläser, W.M. Boon, and R. Helmig. \
     [Coupling staggered-grid and MPFA finite volume methods for free flow/porous-medium flow problems.](https://doi.org/10.1016/j.jcp.2019.109012)\
 	*Journal of Computational Physics*, 
-    401. 
+    401, 109012. 
 -	W.M. Boon, J.M. Nordbotten. \
 	[Convergence of a TPFA Finite Volume Scheme for Mixed-Dimensional Flow Problems.](https://doi.org/10.1007/978-3-030-43651-3_40)\
 	*Finite Volumes for Complex Applications IX*, 
