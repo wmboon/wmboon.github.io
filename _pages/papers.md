@@ -8,6 +8,10 @@ classes: wide
 
 ### 2023
 
+- W.M. Boon, A. Fumagalli, A. Scotti. \
+    [Mixed and Multipoint Finite Element Methods for Rotation-Based Poroelasticity](https://epubs.siam.org/doi/10.1137/22M154329X)\
+    *SIAM Journal on Numerical Analysis*,
+    61(5), 2485-2508.
 - W.M. Boon, F.J. Vermolen. \
 	[Analysis of Linearized Elasticity Models with Point Sources in Weighted Sobolev Spaces: Applications in Tissue Contraction](https://doi.org/10.1051/m2an/2023055)\
 	*ESAIM: Mathematical Modelling and Numerical Analysis*, 57(4), 2349-2370.
