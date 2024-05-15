@@ -6,6 +6,12 @@ classes: wide
 
 ## Journal articles
 
+### 2024
+
+- W.M. Boon, D. Gläser, R. Helmig, I. Yotov.
+	[A mortar method for the coupled Stokes-Darcy problem using the MAC scheme for Stokes and mixed finite elements for Darcy](https://doi.org/10.1007/s10596-023-10267-6)
+	Computational Geosciences, (2024).
+
 ### 2023
 
 - W.M. Boon, A. Fumagalli, A. Scotti. \

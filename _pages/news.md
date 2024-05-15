@@ -6,4 +6,4 @@ taxonomy: news
 author_profile: true
 ---
 
-A collection of external news articles.
+A collection of external news articles and announcements.
