@@ -3,7 +3,9 @@ title: RBM with local mass conservation
 header: 
   teaser: /assets/images/midirom_papers/case3_sol.png
   overlay_image: /assets/images/midirom_papers/case3_sol.png
-excerpt: A Reduced Basis Method for Darcy flow systems that ensures local mass conservation by using exact discrete complexes.
+excerpt: A Reduced Basis Method for Darcy flow systems that ensures local mass conservation by using exact discrete complexes
+authors: W.M. Boon, A. Fumagalli
+journal: Journal of Scientific Computing 94(3), 64
 tags: MiDiROM
 ---
 

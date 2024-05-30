@@ -3,7 +3,9 @@ title: Multipoint MFEM for Stokes flow
 header: 
   teaser: /assets/images/midirom_papers/Picture2.png
   overlay_image: /assets/images/midirom_papers/Picture2.png
-excerpt: A multipoint vorticity mixed finite element method for incompressible Stokes flow.
+excerpt: A multipoint vorticity mixed finite element method for incompressible Stokes flow
+authors: W.M. Boon, A. Fumagalli
+journal: Applied Mathematics Letters 137, 108498
 tags: MiDiROM
 ---
 

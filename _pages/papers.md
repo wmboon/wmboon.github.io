@@ -6,38 +6,35 @@ classes: wide
 
 ## Journal articles
 
-Selected papers are summarized [here](./summaries.md).
+{% assign paper_posts = site.posts | where_exp:"post", "post.categories contains 'papers'"%}
+{% assign years = paper_posts
+   | group_by_exp: "post", "post.date | date: '%Y'"
+%}
+{% for year in years %}
+  <h3>{{ year.name }}</h3>
 
-### 2024
+  <ul style="list-style-type:square">
+    {% for post in year.items %}
+      <li>
+        {{ post.authors }}. 
+        <a href='{{ post.url }}'>{{ post.excerpt }}.</a>
+        <em>{{ post.journal }}.</em>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %} 
 
-- W.M. Boon, D. Gläser, R. Helmig, I. Yotov.
-	[A mortar method for the coupled Stokes-Darcy problem using the MAC scheme for Stokes and mixed finite elements for Darcy](https://doi.org/10.1007/s10596-023-10267-6)
-	Computational Geosciences, (2024).
+## Journal articles
 
 ### 2023
 
-- W.M. Boon, A. Fumagalli, A. Scotti. \
-    [Mixed and Multipoint Finite Element Methods for Rotation-Based Poroelasticity](https://epubs.siam.org/doi/10.1137/22M154329X)\
-    *SIAM Journal on Numerical Analysis*,
-    61(5), 2485-2508.
-    [Summary](../papers/_posts/2023-07-17-mfem_Biot.md){: .btn .btn--success}
-- W.M. Boon, F.J. Vermolen. \
-	[Analysis of Linearized Elasticity Models with Point Sources in Weighted Sobolev Spaces: Applications in Tissue Contraction](https://doi.org/10.1051/m2an/2023055)\
-	*ESAIM: Mathematical Modelling and Numerical Analysis*, 57(4), 2349-2370.
-- W.M. Boon, A. Fumagalli. \
-    [A Reduced Basis Method for Darcy flow systems that ensures local mass conservation by using exact discrete complexes.](https://doi.org/10.1007/s10915-023-02119-3)\
-	*Journal of Scientific Computing* 
-    94(3), 64.
-    [Summary](../papers/_posts/2023-02-06-conservative_RBM.md){: .btn .btn--success}
+
+
 - W.M. Boon, D. Gläser, R. Helmig, I. Yotov. \
     [Flux-mortar mixed finite element methods with multipoint flux approximation.](https://doi.org/10.1016/j.cma.2022.115870)\
 	*Computer Methods in Applied Mechanics and Engineering*, 
     405, 115870.
-- W.M. Boon, A. Fumagalli. \
-    [A multipoint vorticity mixed finite element method for incompressible Stokes flow.](https://doi.org/10.1016/j.aml.2022.108498)\
-	*Applied Mathematics Letters*, 
-    137, 108498.
-    [Summary](../papers/_posts/2022-11-17-mvfem_Stokes.md){: .btn .btn--success}
+
 - W.M. Boon, J.M. Nordbotten \
     [Mixed-dimensional poromechanical models of fractured porous media.](https://doi.org/10.1007/s00707-022-03378-1)\
 	*Acta Mechanica*, 

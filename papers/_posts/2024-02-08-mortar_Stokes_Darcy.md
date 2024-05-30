@@ -1,16 +1,18 @@
 ---
-title: Multipoint MFEM for Biot poroelasticity
-header: 
-  teaser: /assets/images/midirom_papers/pressure.png
-  overlay_image: /assets/images/midirom_papers/pressure.png
-excerpt: Mixed and multipoint finite element methods for rotation-based poroelasticity. W.M. Boon, A. Fumagalli, A. Scotti.
-tags: MiDiROM
+title: Flux-mortars for Stokes-Darcy
+# header: 
+#   teaser: /assets/images/midirom_papers/pressure.png
+#   overlay_image: /assets/images/midirom_papers/pressure.png
+excerpt: A mortar method for the coupled Stokes-Darcy problem using the MAC scheme for Stokes and mixed finite elements for Darcy
+authors: W.M. Boon, D. Gläser, R. Helmig, K. Weishaupt, I. Yotov
+journal: Computational Geosciences
+tags: mortar-methods
 ---
 
-[Published version](https://epubs.siam.org/doi/10.1137/22M154329X){: .btn .btn--info}
-[ArXiv (open access)](https://arxiv.org/abs/2212.12448){: .btn .btn--success}
+[Published version](https://doi.org/10.1007/s10596-023-10267-6){: .btn .btn--info}
+[ArXiv (open access)](https://arxiv.org/abs/2402.10615){: .btn .btn--success}
 
-## Key ideas
+<!-- ## Key ideas
 
 - By rewriting the linear elasticity equations as a weighted vector-Laplacian, we obtain a four-field formulation of Biot poroelasticity in terms of solid rotation, solid displacement, fluid flux, and fluid pressure.
 - The relevant function spaces form a differential complex that can be preserved by discretizing with lowest order finite element spaces.
@@ -24,4 +26,4 @@ tags: MiDiROM
 - Linear convergence in all variables is shown both theoretically and experimentally.
 - Certain properties of the solutions remain invariant under the low-order quadrature, including the curl of the rotation.
 - The analysis in parameter-weighted norms guides the construction of preconditioners that are robust in all relevant physical limits.
-- A drawback is that the formulation is based on unconventional boundary conditions and currently does not directly handle traction conditions.
+- A drawback is that the formulation is based on unconventional boundary conditions and currently does not directly handle traction conditions. -->
