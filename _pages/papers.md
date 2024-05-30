@@ -6,6 +6,8 @@ classes: wide
 
 ## Journal articles
 
+Selected papers are summarized [here](./summaries.md).
+
 ### 2024
 
 - W.M. Boon, D. Gläser, R. Helmig, I. Yotov.
@@ -18,7 +20,7 @@ classes: wide
     [Mixed and Multipoint Finite Element Methods for Rotation-Based Poroelasticity](https://epubs.siam.org/doi/10.1137/22M154329X)\
     *SIAM Journal on Numerical Analysis*,
     61(5), 2485-2508.
-    [Summary](../_midirom_papers/2023-07-17-mfem_Biot.md){: .btn .btn--success}
+    [Summary](../papers/_posts/2023-07-17-mfem_Biot.md){: .btn .btn--success}
 - W.M. Boon, F.J. Vermolen. \
 	[Analysis of Linearized Elasticity Models with Point Sources in Weighted Sobolev Spaces: Applications in Tissue Contraction](https://doi.org/10.1051/m2an/2023055)\
 	*ESAIM: Mathematical Modelling and Numerical Analysis*, 57(4), 2349-2370.
@@ -26,7 +28,7 @@ classes: wide
     [A Reduced Basis Method for Darcy flow systems that ensures local mass conservation by using exact discrete complexes.](https://doi.org/10.1007/s10915-023-02119-3)\
 	*Journal of Scientific Computing* 
     94(3), 64.
-    [Summary](../_midirom_papers/2023-02-06-conservative_RBM.md){: .btn .btn--success}
+    [Summary](../papers/_posts/2023-02-06-conservative_RBM.md){: .btn .btn--success}
 - W.M. Boon, D. Gläser, R. Helmig, I. Yotov. \
     [Flux-mortar mixed finite element methods with multipoint flux approximation.](https://doi.org/10.1016/j.cma.2022.115870)\
 	*Computer Methods in Applied Mechanics and Engineering*, 
@@ -35,7 +37,7 @@ classes: wide
     [A multipoint vorticity mixed finite element method for incompressible Stokes flow.](https://doi.org/10.1016/j.aml.2022.108498)\
 	*Applied Mathematics Letters*, 
     137, 108498.
-    [Summary](../_midirom_papers/2023-03-01-mvfem_Stokes.md){: .btn .btn--success}
+    [Summary](../papers/_posts/2022-11-17-mvfem_Stokes.md){: .btn .btn--success}
 - W.M. Boon, J.M. Nordbotten \
     [Mixed-dimensional poromechanical models of fractured porous media.](https://doi.org/10.1007/s00707-022-03378-1)\
 	*Acta Mechanica*, 

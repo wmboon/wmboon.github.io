@@ -1,8 +1,8 @@
 ---
-permalink: /midirom/
+permalink: midirom/
 title: "MiDiROM: Deep learning enhanced numerical simulations of mixed-dimensional models for subsurface flow"
-layout: collection
-collection: midirom_papers
+layout: tag
+taxonomy: MiDiROM
 entries_layout: grid
 sort_by: date
 sort_order: reverse

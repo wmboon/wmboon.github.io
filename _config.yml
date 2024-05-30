@@ -101,10 +101,10 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
-collections:
-  midirom_papers:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   midirom_papers:
+#     output: true
+#     permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -127,20 +127,8 @@ defaults:
       type: pages
     values:
       layout: single
-      classes: wide
       author_profile: true
-  # _midirom_papers
-  - scope:
-      path: ""
-      type: midirom_papers
-    values:
-      layout: single
-      author_profile: false
       classes: wide
-      share: false
-      show_date: false
-      header:
-        show_overlay_excerpt: false
 
 category_archive:
   type: liquid

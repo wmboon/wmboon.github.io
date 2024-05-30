@@ -4,6 +4,7 @@ header:
   teaser: /assets/images/midirom_papers/Picture2.png
   overlay_image: /assets/images/midirom_papers/Picture2.png
 excerpt: A multipoint vorticity mixed finite element method for incompressible Stokes flow.
+tags: MiDiROM
 ---
 
 [Published version (open access)](https://doi.org/10.1016/j.aml.2022.108498){: .btn .btn--success}

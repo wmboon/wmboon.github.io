@@ -4,6 +4,7 @@ header:
   teaser: /assets/images/midirom_papers/case3_sol.png
   overlay_image: /assets/images/midirom_papers/case3_sol.png
 excerpt: A Reduced Basis Method for Darcy flow systems that ensures local mass conservation by using exact discrete complexes.
+tags: MiDiROM
 ---
 
 [Published version (open access)](https://doi.org/10.1007/s10915-023-02119-3){: .btn .btn--success}
