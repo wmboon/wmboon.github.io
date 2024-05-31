@@ -6,7 +6,10 @@ header:
 excerpt: A multipoint vorticity mixed finite element method for incompressible Stokes flow
 authors: W.M. Boon, A. Fumagalli
 journal: Applied Mathematics Letters 137, 108498
-tags: MiDiROM
+tags: 
+  - MiDiROM
+  - differential complexes
+  - multipoint MFEM
 ---
 
 [Published version (open access)](https://doi.org/10.1016/j.aml.2022.108498){: .btn .btn--success}

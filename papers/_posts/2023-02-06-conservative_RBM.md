@@ -6,7 +6,10 @@ header:
 excerpt: A Reduced Basis Method for Darcy flow systems that ensures local mass conservation by using exact discrete complexes
 authors: W.M. Boon, A. Fumagalli
 journal: Journal of Scientific Computing 94(3), 64
-tags: MiDiROM
+tags: 
+  - MiDiROM
+  - mixed-dimensional
+  - differential complexes
 ---
 
 [Published version (open access)](https://doi.org/10.1007/s10915-023-02119-3){: .btn .btn--success}

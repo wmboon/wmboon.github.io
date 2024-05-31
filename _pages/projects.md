@@ -3,6 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
+<!-- ### [PyGeoN](/pygeon/) -->
 
 
 ### [MiDiROM](/midirom/)

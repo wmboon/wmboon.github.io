@@ -6,7 +6,9 @@ title: Flux-mortars for Stokes-Darcy
 excerpt: A mortar method for the coupled Stokes-Darcy problem using the MAC scheme for Stokes and mixed finite elements for Darcy
 authors: W.M. Boon, D. Gläser, R. Helmig, K. Weishaupt, I. Yotov
 journal: Computational Geosciences
-tags: mortar-methods
+tags: 
+    - flux-mortars
+    - Stokes-Darcy
 ---
 
 [Published version](https://doi.org/10.1007/s10596-023-10267-6){: .btn .btn--info}
