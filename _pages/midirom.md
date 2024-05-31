@@ -1,5 +1,5 @@
 ---
-permalink: midirom/
+permalink: /midirom/
 title: "MiDiROM: Deep learning enhanced numerical simulations of mixed-dimensional models for subsurface flow"
 layout: tag
 taxonomy: MiDiROM

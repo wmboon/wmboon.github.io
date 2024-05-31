@@ -1,5 +1,5 @@
 ---
-permalink: md-pdes/
+permalink: /md-pdes/
 title: Mixed-dimensional PDEs
 layout: tag
 taxonomy: mixed-dimensional
