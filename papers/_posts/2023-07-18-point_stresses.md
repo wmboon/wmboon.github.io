@@ -10,5 +10,5 @@ tags:
     - wound healing
 ---
 
-[Published version](https://doi.org/10.1051/m2an/2023055){: .btn .btn--info}
+[Published version (open access)](https://doi.org/10.1051/m2an/2023055){: .btn .btn--success}
 <!-- [ArXiv (open access)](https://arxiv.org/abs/2402.10615){: .btn .btn--success} -->

@@ -8,7 +8,7 @@ authors: W.M. Boon, T. Koch, M. Kuchta, K.-A. Mardal
 journal: SIAM Journal on Scientific Computing 44(4), B1148-B1174
 tags: 
     - Stokes-Darcy
-    - preconditioning
+    - preconditioners
 ---
 
 [Published version](https://doi.org/10.1137/21M1452974){: .btn .btn--info}

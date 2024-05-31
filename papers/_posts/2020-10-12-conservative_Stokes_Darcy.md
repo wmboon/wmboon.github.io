@@ -1,5 +1,5 @@
 ---
-title: Mass conservative domain decomposition for Stokes-Darcy
+title: A mass conservative iterative solver for Stokes-Darcy
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png

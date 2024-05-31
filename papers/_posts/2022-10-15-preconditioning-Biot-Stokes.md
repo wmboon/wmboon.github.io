@@ -7,7 +7,7 @@ excerpt: Parameter-robust methods for the Biot-Stokes interfacial coupling witho
 authors: W.M. Boon, M. Hornkjøl, M. Kuchta, K.-A. Mardal, R. Ruiz-Baier
 journal: Journal of Computational Physics 67, 111464
 tags: 
-    - preconditioning
+    - preconditioners
     - Biot
 ---
 

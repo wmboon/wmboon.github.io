@@ -8,10 +8,20 @@ authors: W.M. Boon, E. Nilsson
 journal: 
 tags: 
     - auxiliary space
-    - preconditioning
+    - differential complexes
+    - preconditioners
 ---
 
 <!-- [Published version](){: .btn .btn--info} -->
 [ArXiv (open access)](https://arxiv.org/abs/2404.12823){: .btn .btn--success}
 
-We generalized the Hiptmair-Xu auxiliary space preconditioner to the Virtual Element Method on polyhedral grids. 
+In short, we generalized the Hiptmair-Xu auxiliary space preconditioner to the Virtual Element Method on polyhedral grids. 
+
+## Key ideas
+- The Virtual Element spaces form a discrete differential complex.
+- We derive a regular decomposition of the edge and face Virtual element spaces in terms of the nodal space and high-frequency terms.
+- From the regular decomposition, we construct an auxiliary space preconditioner.
+
+## Main findings
+- We show theoretically and numerically that the preconditioner is robust with respect to the mesh size $h$.
+- Numerical experiments show that the preconditioner is robust with respect to large aspect ratios. It therefore shows potential for problems in which the mesh is naively adapted to conform to interfaces or inclusions.
