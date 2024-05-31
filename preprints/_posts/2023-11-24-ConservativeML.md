@@ -9,6 +9,7 @@ journal:
 tags: 
     - neural networks
     - mixed-dimensional
+    - MiDiROM
 ---
 
 [Published version](https://arxiv.org/abs/2311.14554){: .btn .btn--info}
