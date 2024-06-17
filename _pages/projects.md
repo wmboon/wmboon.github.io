@@ -14,7 +14,8 @@ Deep learning enhanced numerical simulations of mixed-dimensional models for sub
 ### [Mixed-dimensional partial differential equations](/md-pdes/)
 
 ### [Robust preconditioning](/preconditioners/)
+
+### [Robust solvers for Stokes-Darcy systems](/coupledproblems/)
 <!-- 
-### Robust solvers for Stokes-Darcy systems
 
 ### Benchmarks for flow in fractured porous media -->

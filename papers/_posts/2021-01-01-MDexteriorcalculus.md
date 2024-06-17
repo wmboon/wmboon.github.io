@@ -11,5 +11,5 @@ tags:
     - differential complexes
 ---
 
-[Published version (open access)](https://doi.org/10.1007/s10231-020-01013-1){: .btn .btn--info}
+[Published version (open access)](https://doi.org/10.1007/s10231-020-01013-1){: .btn .btn--success}
 <!-- [ArXiv (open access)](){: .btn .btn--success} -->
