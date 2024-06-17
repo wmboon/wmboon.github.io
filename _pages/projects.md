@@ -15,7 +15,7 @@ Deep learning enhanced numerical simulations of mixed-dimensional models for sub
 
 ### [Robust preconditioning](/preconditioners/)
 
-### [Robust solvers for Stokes-Darcy systems](/coupledproblems/)
+### [Discretizations and solvers for Stokes-Darcy systems](/Stokes-Darcy/)
 <!-- 
 
 ### Benchmarks for flow in fractured porous media -->

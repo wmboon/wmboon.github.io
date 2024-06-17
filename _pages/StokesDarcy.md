@@ -1,10 +1,8 @@
 ---
-permalink: /coupledproblems/
-title: Coupled problems
+permalink: /Stokes-Darcy/
+title: Coupled Stokes-Darcy problems
 layout: tag
-taxonomy: 
-    - Stokes-Darcy
-    - Stokes-Biot
+taxonomy: Stokes-Darcy
 entries_layout: grid
 sort_by: date
 sort_order: reverse
