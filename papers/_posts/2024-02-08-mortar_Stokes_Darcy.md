@@ -21,9 +21,3 @@ tags:
 - The two schemes are coupled by introducing a Lagrange multiplier on the Stokes-Darcy interface that enforces flux continuity.
 - We show that the discrete system is well-posed and provide a priori error estimates.
 - The analytical results are validated by three numerical test cases.
-## Summary
-- We discretize the Stokes equations with the Marker-and-Cell (MAC) method and Darcy flow using the Raviart-Thomas pair.
-- We analyze the MAC scheme by interpreting it as a conforming mixed finite element method on a staggered grid.
-- The two schemes are coupled by introducing a Lagrange multiplier on the Stokes-Darcy interface that enforces flux continuity.
-- We show that the discrete system is well-posed and provide a priori error estimates.
-- The analytical results are validated by three numerical test cases.
