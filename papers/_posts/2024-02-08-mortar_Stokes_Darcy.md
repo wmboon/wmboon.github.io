@@ -6,7 +6,6 @@ header:
 excerpt: A mortar method for the coupled Stokes-Darcy problem using the MAC scheme for Stokes and mixed finite elements for Darcy
 authors: W.M. Boon, D. Gläser, R. Helmig, K. Weishaupt, I. Yotov
 journal: Computational Geosciences 28, 413–430
-journal: Computational Geosciences 28, 413–430
 tags: 
     - Stokes-Darcy
     - MiDiROM
