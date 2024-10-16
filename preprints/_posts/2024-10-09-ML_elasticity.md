@@ -14,12 +14,14 @@ tags:
 <!-- [Published version](){: .btn .btn--info} -->
 [ArXiv (open access)](https://arxiv.org/abs/2410.06975){: .btn .btn--success}
 
-## Highlights
+## Summary
 - We consider the Arnold-Falk-Winther finite element triplet to discretize the stress, displacement, and rotation variables.
 - Using a spanning tree, a *particular* solution $\sigma_f = Sf$ is rapidly constructed that balances body and boundary forces and is weakly symmetric.
-- Two strategies are proposed that guarantee conservation of linear and angular momentum:
-    - A *Split* approach in which a neural network is trained to update the particular solution.
+- Since $S$ is a right-inverse of $B$, the operator $(I - SB)$ is a projection onto the kernel of $B$.
+- Two strategies are proposed to update the particular solution with a *homogeneous* solution
+    - A *Split* approach in which a neural network is trained to update the particular solution with $\tilde{\sigma}$, which is then projected onto the kernel of $B$:
     $$ \sigma = \sigma_f + (I - SB) \tilde{\sigma}$$
-    - A *Corrected* strategy that trains a neural network to compute the stress 
+    - A *Corrected* strategy that trains a neural network to compute the stress directly as $\hat{\sigma}$ and we apply a correction:
     $$ \sigma = \sigma_f + (I - SB) (\hat{\sigma} - \sigma_f)$$
-- The corrected approach is found to be more reliable overall.
+  In both cases, we have $B\sigma = B\sigma_f$ and thus it conserves linear and angular momentum.
+- The Corrected approach is found to be more reliable overall.
