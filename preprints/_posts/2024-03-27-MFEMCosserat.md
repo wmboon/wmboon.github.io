@@ -17,11 +17,10 @@ tags:
 ## Key ideas
 - Cosserat materials form an extension of linearized elasticity by relaxing the symmetry condition on the stress tensor. 
 - With the additional rotation and couple stress variables, the Cosserat equations form a saddle point problem in four variables.
+- The Cosserat equations correspond to a well-posed Hodge-Laplace problem on the Cosserat complex.
 
 ## Main findings
-- The operators in the Cosserat equations can be placed in a differential complex that is isomorphic to six copies of the de Rham complex.
-- The Cosserat equations correspond to a well-posed Hodge-Laplace problem.
 - Two families of mixed finite element discretizations are proposed:
-  * The *strongly coupled* spaces form a subcomplex.
-  * The *weakly coupled* spaces can be used if the equations degenerate to linearized elasticity.
+  * The *strongly coupled* spaces form a subcomplex of the Cosserat complex.
+  * The *weakly coupled* spaces can be used if the equations degenerate to linearized elasticity. They utilize tuples of $\mathbb{RT}_0$ for the stress tensors.
 - Optimal convergence is shown theoretically and numerically for both families.
