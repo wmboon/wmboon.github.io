@@ -10,6 +10,7 @@ tags:
     - neural networks
     - mixed-dimensional
     - MiDiROM
+    - spanning trees
 ---
 
 <!-- [Published version](){: .btn .btn--info} -->
