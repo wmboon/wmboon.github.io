@@ -1,5 +1,5 @@
 ---
-title: 3D Verification Benchmarks for Discretizations of Fracture Flow
+title: 3D verification benchmarks for discretizations of fracture flow
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png

@@ -1,5 +1,5 @@
 ---
-title: Auxiliary space preconditioners for VEM
+title: Auxiliary space preconditioners for Virtual Elements
 header: 
   teaser: /assets/images/papers/DeRhamDodecaFinal.png
   overlay_image: /assets/images/papers/DeRhamDodecaFinal.png

@@ -1,5 +1,5 @@
 ---
-title: A unified approach to discretizating flow in fractured porous media
+title: A unified approach to discretizing flow in fractured porous media
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png

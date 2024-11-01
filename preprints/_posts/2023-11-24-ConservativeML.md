@@ -1,5 +1,5 @@
 ---
-title: Conservative Neural Networks for Darcy Flow
+title: Conservative neural networks for Darcy flow
 header: 
   teaser: /assets/images/papers/spanningtree.png
   overlay_image: /assets/images/papers/spanningtree.png

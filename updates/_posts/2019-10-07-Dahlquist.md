@@ -1,5 +1,5 @@
 ---
-title: "Dahlquist Fellowship"
+title: "Dahlquist fellowship at KTH"
 tag: news
 ---
 
