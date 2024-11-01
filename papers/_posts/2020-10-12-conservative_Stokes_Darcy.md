@@ -7,7 +7,7 @@ excerpt: A Parameter-Robust Iterative Method for Coupled Stokes-Darcy Models Ret
 authors: W.M. Boon
 journal: "ESAIM: Mathematical Modelling and Numerical Analysis 54(6), 2045-2067"
 tags: 
-    - flux-mortars
+    - mortar methods
     - Stokes-Darcy
 ---
 

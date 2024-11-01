@@ -1,5 +1,5 @@
 ---
-title: Efficient Water Table Evolution Discretization
+title: Modeling water table evolution
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png

@@ -9,6 +9,7 @@ journal: Computational Geosciences 28, 413–430
 tags: 
     - Stokes-Darcy
     - MiDiROM
+    - mortar methods
 ---
 
 [Published version](https://doi.org/10.1007/s10596-023-10267-6){: .btn .btn--info}

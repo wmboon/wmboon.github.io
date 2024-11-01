@@ -1,5 +1,5 @@
 ---
-title: Robust Discretization of Flow in Fractured Porous Media
+title: A finite element method for flow in fractured porous media
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png
@@ -7,7 +7,7 @@ excerpt: Robust Discretization of Flow in Fractured Porous Media
 authors: W.M. Boon, J.M. Nordbotten, I. Yotov
 journal: SIAM Journal on Numerical Analysis 56(4), 2203-2233
 tags: 
-    - flux-mortars
+    - mortar methods
     - mixed-dimensional
 ---
 

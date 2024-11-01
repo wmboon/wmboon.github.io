@@ -1,5 +1,5 @@
 ---
-title: A 3-D Study on Groundwater Discharge to a Gaining Stream
+title: A 3D study on groundwater discharge to a gaining stream
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png

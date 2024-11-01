@@ -1,5 +1,5 @@
 ---
-title: Benchmarks for Single-Phase Flow in Fractured Porous Media
+title: Benchmarks for single-phase flow in fractured porous media
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png

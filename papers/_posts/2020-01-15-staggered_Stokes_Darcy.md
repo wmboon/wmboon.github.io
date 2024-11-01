@@ -1,5 +1,5 @@
 ---
-title: Coupling staggered-grid and MPFA for Stokes-Darcy
+title: Coupling staggered-grid and MPFA for Stokes-Darcy problems
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png

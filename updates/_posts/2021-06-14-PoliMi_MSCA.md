@@ -1,5 +1,5 @@
 ---
-title: "PoliMi Master Class on MSCA-IF proposal writing"
+title: "PoliMi Master Class on Marie Curie proposal writing"
 tag: news
 ---
 

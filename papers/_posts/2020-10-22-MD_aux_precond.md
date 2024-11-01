@@ -1,5 +1,5 @@
 ---
-title: Mixed-Dimensional Auxiliary Space Preconditioners
+title: Mixed-dimensional auxiliary space preconditioners
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png

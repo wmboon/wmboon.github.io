@@ -7,7 +7,7 @@ excerpt: Flux-mortar mixed finite element methods with multipoint flux approxima
 authors: W.M. Boon, D. Gläser, R. Helmig, I. Yotov
 journal: Computer Methods in Applied Mechanics and Engineering 405, 115870
 tags: 
-    - flux-mortars
+    - mortar methods
     - MiDiROM
 ---
 

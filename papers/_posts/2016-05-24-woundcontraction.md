@@ -1,5 +1,5 @@
 ---
-title: A Cell-Based Model for Wound Contraction
+title: A cell-based model for wound contraction
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png
