@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/papers/DeRhamDodecaFinal.png
 excerpt: Nodal auxiliary space preconditioners for mixed virtual element methods
 authors: W.M. Boon, E. Nilsson
-journal: "ESAIM: Mathematical Modelling and Numerical Analysis, 59(1), 363-387."
+journal: "ESAIM: Mathematical Modelling and Numerical Analysis, 59(1), 363-387"
 tags: 
     - auxiliary space
     - differential complexes
