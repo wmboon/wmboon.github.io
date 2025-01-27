@@ -5,14 +5,15 @@ header:
   overlay_image: /assets/images/papers/quiver2j0_splitted_3.png
 excerpt: Neural network solvers for parametrized elasticity problems that conserve linear and angular momentum
 authors: W.M. Boon, N.R. Franco, A. Fumagalli
-journal: 
+journal: Computer Methods in Applied Mechanics and Engineering, 437, 117759
 tags: 
     - neural networks
     - spanning trees
+    - weak symmetry
 ---
 
-<!-- [Published version](){: .btn .btn--info} -->
-[ArXiv (open access)](https://arxiv.org/abs/2410.06975){: .btn .btn--success}
+[Published version (open access)](https://doi.org/10.1016/j.cma.2025.117759){: .btn .btn--success}
+[ArXiv](https://arxiv.org/abs/2410.06975){: .btn .btn--success}
 
 ## Summary
 - We consider the Arnold-Falk-Winther finite element triplet to discretize the stress, displacement, and rotation variables.
