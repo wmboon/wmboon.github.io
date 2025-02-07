@@ -5,13 +5,13 @@ header:
   overlay_image: /assets/images/papers/superconvergence_k1_example_1.png
 excerpt: Mixed finite element methods for linear Cosserat equations
 authors: W.M. Boon, O. Durán, J.M. Nordbotten
-journal: 
+journal: SIAM Journal on Numerical Analysis 63(1), 306-333
 tags: 
     - Cosserat
     - differential complexes
 ---
 
-<!-- [Published version](){: .btn .btn--info} -->
+[Published version](https://doi.org/10.1137/24M1648387){: .btn .btn--info}
 [ArXiv (open access)](https://arxiv.org/abs/2403.15136){: .btn .btn--success}
 
 ## Key ideas
