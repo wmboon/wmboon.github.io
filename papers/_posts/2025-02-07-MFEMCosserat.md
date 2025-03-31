@@ -11,8 +11,8 @@ tags:
     - differential complexes
 ---
 
-[Published version](https://doi.org/10.1137/24M1648387){: .btn .btn--info}
-[ArXiv (open access)](https://arxiv.org/abs/2403.15136){: .btn .btn--success}
+[Published version (open access)](https://doi.org/10.1137/24M1648387){: .btn .btn--success}
+[ArXiv](https://arxiv.org/abs/2403.15136){: .btn .btn--success}
 
 ## Key ideas
 - Cosserat materials form an extension of linearized elasticity by relaxing the symmetry condition on the stress tensor. 

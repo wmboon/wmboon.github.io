@@ -10,7 +10,6 @@ tags:
     - neural networks
     - spanning trees
     - weak symmetry
-# TODO: change date to 15-03-2025
 ---
 
 [Published version (open access)](https://doi.org/10.1016/j.cma.2025.117759){: .btn .btn--success}
