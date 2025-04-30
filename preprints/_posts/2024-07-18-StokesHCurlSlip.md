@@ -13,17 +13,10 @@ tags:
 <!-- [Published version](){: .btn .btn--info} -->
 [ArXiv (open access)](https://arxiv.org/abs/2407.13353){: .btn .btn--success}
 
-<!-- ## Key ideas
-- We consider functions defined on an open cover of a domain.
-- The Čech-de Rham complex is obtained by combining
-    * differential operators such as the gradient, curl, and divergence.
-    * differences of functions on the overlaps.
-- We endow this double complex with a Hilbert space structure to create the $L^2$ Čech-de Rham complex.
+## Summary
 
-## Main findings
-- The $L^2$ Čech-de Rham complex is a closed Hilbert complex and a Fredholm complex. 
-- In turn, the Hodge-Laplace problems on the Čech-de Rham complex are well-posed.
-- Depending on the choice of open cover, the Hodge-Laplace problem corresponds to certain coupled problems, including:
-    * (1D-1D) elastically attached strings.
-    * (3D-3D) multi-porosity flow systems.
-    * (1D-3D) flow around wells in the subsurface and arteries in biophysical applications. -->
+- We consider an alternative formulation for the Stokes problem in which the velocity is sought in H(curl). 
+- Enforcing Navier-slip boundary conditions in the H(curl)-based setting is non-trivial, but it can be done by considering it as a Robin boundary condition.
+- We prove well-posedness of the continuous problem using compact perturbation theory.
+- The discrete problem is analyzed using a curl-preserving lifting operator and we derive a priori error estimates for the discrete solution.
+- Numerical results validate the predicted convergence rates.
