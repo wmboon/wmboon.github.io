@@ -1,8 +1,8 @@
 ---
 title: Slip boundary conditions for H(curl)-based Stokes
-# header: 
-#   teaser: /assets/images/papers/CechdeRham.png
-#   overlay_image: /assets/images/papers/CechdeRham.png
+header: 
+  teaser: /assets/images/papers/LidDrivenCavity2D.png
+  overlay_image: /assets/images/papers/LidDrivenCavity2D.png
 excerpt: H(curl)-based approximation of the Stokes problem with slip boundary conditions
 authors: W.M. Boon, R. Hiptmair, W. Tonnon, E. Zampa
 journal: 
