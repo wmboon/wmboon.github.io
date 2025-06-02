@@ -4,8 +4,8 @@ title: "Publications and Manuscripts"
 classes: wide
 ---
 
-<h2> Preprints </h2>
 {% assign preprint_posts = site.posts | where_exp:"post", "post.categories contains 'preprints'"%}
+<h2> Preprints ({{ preprint_posts.size }}) </h2>
 
 <ul style="list-style-type:square">
   {% for post in preprint_posts %}
@@ -39,9 +39,9 @@ classes: wide
   </ul>
 {% endfor %}
 
-<h2> Conference proceedings </h2>
 
 {% assign proceeding_posts = site.posts | where_exp:"post", "post.categories contains 'proceedings'"%}
+<h2> Conference proceedings ({{ proceeding_posts.size }})</h2>
 {% assign years = proceeding_posts
    | group_by_exp: "post", "post.date | date: '%Y'"
 %}
