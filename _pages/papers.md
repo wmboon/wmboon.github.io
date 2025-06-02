@@ -17,9 +17,11 @@ classes: wide
   {% endfor %}
 </ul>
 
-<h2> Journal articles </h2>
 
 {% assign paper_posts = site.posts | where_exp:"post", "post.categories contains 'papers'"%}
+
+<h2> Journal articles ({{ paper_posts.size }}) </h2>
+
 {% assign years = paper_posts
    | group_by_exp: "post", "post.date | date: '%Y'"
 %}
@@ -39,8 +41,8 @@ classes: wide
 
 <h2> Conference proceedings </h2>
 
-{% assign paper_posts = site.posts | where_exp:"post", "post.categories contains 'proceedings'"%}
-{% assign years = paper_posts
+{% assign proceeding_posts = site.posts | where_exp:"post", "post.categories contains 'proceedings'"%}
+{% assign years = proceeding_posts
    | group_by_exp: "post", "post.date | date: '%Y'"
 %}
 {% for year in years %}
