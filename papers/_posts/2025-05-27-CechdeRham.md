@@ -5,15 +5,15 @@ header:
   overlay_image: /assets/images/papers/CechdeRham.png
 excerpt: The Hodge-Laplacian on the Čech-de Rham complex governs coupled problems
 authors: W.M. Boon, D.F. Holmen, J.M. Nordbotten, J.E. Vatne
-journal: 
+journal: Journal of Mathematical Analysis and Applications, 129692
 tags: 
     - differential complexes
     - MiDiROM
     - evolutionary equations
 ---
 
-<!-- [Published version](){: .btn .btn--info} -->
-[ArXiv (open access)](https://arxiv.org/abs/2211.04556){: .btn .btn--success}
+[Published version (open access)](https://doi.org/10.1016/j.jmaa.2025.129692){: .btn .btn--success}
+<!-- [ArXiv (open access)](https://arxiv.org/abs/2211.04556){: .btn .btn--success} -->
 
 ## Key ideas
 - We consider functions defined on an open cover of a domain.
