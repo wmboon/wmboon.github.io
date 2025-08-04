@@ -32,7 +32,7 @@ $$
 
 in which $d$ is the differential and $\alpha > 0$ a constant. 
 
-We recognize this as a perturbed saddle point problem and use the framework of [Hong et al.](https://doi.org/10.1090/mcom/3795) to derive the parameter-dependent norms in which the problem is well-posed. Two different strategies are adopted, which both lead to the same preconditioner, namely
+We recognize this as a perturbed saddle point problem and use the framework of [Hong et al.](https://doi.org/10.1090/mcom/3795) to derive the parameter-dependent norms in which the problem is well-posed. Two different strategies are adopted which both lead to the same preconditioner:
 
 $$
 \mathcal{P} := \begin{bmatrix}
