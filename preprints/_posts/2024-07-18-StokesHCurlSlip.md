@@ -1,5 +1,6 @@
 ---
 title: Slip boundary conditions for H(curl)-based Stokes
+permalink: /StokesHcurlSlip
 header: 
   teaser: /assets/images/papers/LidDrivenCavity2D.png
   overlay_image: /assets/images/papers/LidDrivenCavity2D.png
@@ -15,8 +16,7 @@ tags:
 
 ## Summary
 
-- We consider an alternative formulation for the Stokes problem in which the velocity is sought in H(curl). 
-- Enforcing Navier-slip boundary conditions in the H(curl)-based setting is non-trivial, but it can be done by considering it as a Robin boundary condition.
+- We consider a formulation for the Stokes problem in which the velocity is sought in H(curl). Enforcing Navier-slip boundary conditions in the H(curl)-based setting is non-trivial, but it can be done by considering it as a Robin boundary condition.
 - We prove well-posedness of the continuous problem using compact perturbation theory.
 - The discrete problem is analyzed using a curl-preserving lifting operator and we derive a priori error estimates for the discrete solution.
 - Numerical results validate the predicted convergence rates.
