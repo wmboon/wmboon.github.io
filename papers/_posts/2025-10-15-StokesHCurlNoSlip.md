@@ -3,15 +3,15 @@ title: No-slip boundary conditions for H(curl)-based Stokes
 header: 
   teaser: /assets/images/papers/nitscheFlowAroundCylinder1.png
   overlay_image: /assets/images/papers/nitscheFlowAroundCylinder1.png
-excerpt: H(curl)-based approximation of the Stokes problem with weakly emposed no-slip boundary conditions
+excerpt: H(curl)-based approximation of the Stokes problem with weakly enforced no-slip boundary conditions
 authors: W.M. Boon, W. Tonnon, E. Zampa
 journal: 
 tags: 
     - Stokes
 ---
 
-<!-- [Published version](){: .btn .btn--info} -->
-[ArXiv (open access)](https://arxiv.org/abs/2508.02861){: .btn .btn--success}
+[Published version (open access)](https://doi.org/10.1016/j.cma.2025.118484){: .btn .btn--success}
+[ArXiv](https://arxiv.org/abs/2508.02861){: .btn .btn--success}
 
 We consider a formulation for the Stokes problem in which the velocity is sought in H(curl).
 The tangential trace is well-defined in this space, but if we impose zero tangential velocity as an essential boundary condition, then the system is not guaranteed to be well-posed. 
