@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/papers/nitscheFlowAroundCylinder1.png
 excerpt: H(curl)-based approximation of the Stokes problem with weakly enforced no-slip boundary conditions
 authors: W.M. Boon, W. Tonnon, E. Zampa
-journal: 
+journal: Computer Methods in Applied Mechanics and Engineering 448, 118484
 tags: 
     - Stokes
 ---

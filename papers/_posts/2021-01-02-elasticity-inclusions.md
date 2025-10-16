@@ -9,6 +9,7 @@ journal: Computational Geosciences 25(2), 603-620
 tags: 
     - mixed-dimensional
     - differential complexes
+    - weak symmetry
 ---
 
 [Published version (open access)](http://dx.doi.org/10.1007/s10596-020-10013-2){: .btn .btn--info}
