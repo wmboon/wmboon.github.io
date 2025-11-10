@@ -6,6 +6,7 @@ header:
 excerpt: H(curl)-based approximation of the Stokes problem with weakly enforced no-slip boundary conditions
 authors: W.M. Boon, W. Tonnon, E. Zampa
 journal: Computer Methods in Applied Mechanics and Engineering 448, 118484
+# date: 2026-01-01
 tags: 
     - Stokes
 ---
