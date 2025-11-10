@@ -1,9 +1,9 @@
 ---
-title: Multipoint stress mixed finite element methods for the linear Cosserat equations
+title: Multipoint stress MFEM for Cosserat
 header: 
   teaser: /assets/images/papers/cosserat_sigma.jpeg
   overlay_image: /assets/images/papers/cosserat_sigma.jpeg
-excerpt: Multipoint stress MFEM for Cosserat
+excerpt: Multipoint stress mixed finite element methods for the linear Cosserat equations
 authors: W.M. Boon, A. Fumagalli, J.M. Nordbotten, I. Yotov
 journal: 
 tags: 
