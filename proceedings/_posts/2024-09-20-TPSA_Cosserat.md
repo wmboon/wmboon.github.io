@@ -7,7 +7,8 @@ excerpt: Mixed Finite Element and TPSA Finite Volume Methods for Linearized Elas
 authors:  J.M. Nordbotten, W.M. Boon, O. Durán and E. Keilegavlen
 journal: ECMOR 2024, European Association of Geoscientists & Engineers
 tags: 
-    - 
+    - TPSA
+    - Cosserat
 ---
 
 [Published version](https://doi.org/10.3997/2214-4609.202437014){: .btn .btn--info}
