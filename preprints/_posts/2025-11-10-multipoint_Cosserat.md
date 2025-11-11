@@ -12,7 +12,7 @@ tags:
 ---
 
 <!-- [Published version](){: .btn .btn--info} -->
-<!-- [ArXiv (open access)](https://arxiv.org/abs/2510.23432){: .btn .btn--success} -->
+[ArXiv (open access)](https://arxiv.org/abs/2511.06861){: .btn .btn--success}
 
 We propose four multipoint stress mixed finite element methods for the linear Cosserat equations that are stable in the limit of linear elasticity. 
 - The first two methods employ $BDM_1$ elements for the stress variables, and we propose two higher-order methods using $RT_1$ elements.
