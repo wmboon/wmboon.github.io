@@ -11,8 +11,8 @@ tags:
     - preconditioners
 ---
 
-[Published version (open access)](https://doi.org/10.21136/AM.2025.0185-25){: .btn .btn--info}
-[ArXiv (open access)](https://doi.org/10.48550/arXiv.2507.23586){: .btn .btn--success}
+[Published version (open access)](https://doi.org/10.21136/AM.2025.0185-25){: .btn .btn--success}
+[ArXiv](https://doi.org/10.48550/arXiv.2507.23586){: .btn .btn--success}
 
 We consider the Hodge-Laplace problem in mixed form: Find $(u, p) \in H\Lambda^{k - 1} \times H \Lambda^k$ such that
 
