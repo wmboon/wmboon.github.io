@@ -3,15 +3,15 @@ title: Fitted norm preconditioners for the Hodge Laplacian
 # header: 
 #   teaser: /assets/images/*.png
 #   overlay_image: /assets/images/*.png
-excerpt: Fitted norm preconditioners for the Hodge Laplacian in mixed form
+excerpt: Fitted norm preconditioners for the Hodge-Laplacian in mixed form
 authors: W.M. Boon, J. Kraus, T. Luber, M. Lymbery
-journal: 
+journal: Applications of Mathematics 70, 90-927
 tags: 
     - differential complexes
     - preconditioners
 ---
 
-<!-- [Published version](https://doi.org/10.48550/arXiv.2507.23586){: .btn .btn--info} -->
+[Published version (open access)](https://doi.org/10.21136/AM.2025.0185-25){: .btn .btn--info}
 [ArXiv (open access)](https://doi.org/10.48550/arXiv.2507.23586){: .btn .btn--success}
 
 We consider the Hodge-Laplace problem in mixed form: Find $(u, p) \in H\Lambda^{k - 1} \times H \Lambda^k$ such that
