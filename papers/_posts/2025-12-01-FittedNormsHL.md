@@ -5,7 +5,7 @@ title: Fitted norm preconditioners for the Hodge Laplacian
 #   overlay_image: /assets/images/*.png
 excerpt: Fitted norm preconditioners for the Hodge-Laplacian in mixed form
 authors: W.M. Boon, J. Kraus, T. Luber, M. Lymbery
-journal: Applications of Mathematics 70, 90-927
+journal: Applications of Mathematics 70, 907-927
 tags: 
     - differential complexes
     - preconditioners
