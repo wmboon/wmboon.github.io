@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/papers/spanningtree.png
 excerpt: Deep learning based reduced order modeling of Darcy flow systems with local mass conservation
 authors: W.M. Boon, N.R. Franco, A. Fumagalli, P. Zunino
-journal: 
+journal: International Journal for Numerical Methods in Engineering 126(24), e70188
 tags: 
     - neural networks
     - mixed-dimensional
