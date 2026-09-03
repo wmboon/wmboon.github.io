@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/papers/RT0-CR0.png
 excerpt: Parameter-robust Preconditioners for the Stokes-Darcy Coupled Problem without Fractional Operators
 authors: W.M. Boon, X. Hu, X. Wang
-journal: SIAM Journal on Scientific Computing, 48(4), A2206-A2232.
+journal: SIAM Journal on Scientific Computing, 48(4), A2206-A2232
 tags: 
     - Stokes-Darcy
     - preconditioners
