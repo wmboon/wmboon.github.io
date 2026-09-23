@@ -1,5 +1,5 @@
 ---
-title: Linear Robin-type Domain Decomposition scheme for Mixed Formulation of Richards' Equation
+title: Domain Decomposition for Richards' flow in mixed form
 header: 
   teaser: assets/images/papers/watertable_T_0.22.png
   overlay_image: assets/images/papers/watertable_T_0.22.png
